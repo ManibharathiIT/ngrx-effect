@@ -1,0 +1,8 @@
+{
+  "Blogs": [
+    {"id":1,"title":"angular","description":"Angular is an open source powered by google"},
+    {"id":2,"title":"react","description":"React is an open source powered by Mets"},
+    {"id":3,"title":"java","description":"Java is a programming language"}
+  ]
+  
+}
